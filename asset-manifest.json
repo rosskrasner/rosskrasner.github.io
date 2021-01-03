@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rosskrasner.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/rosskrasner.github.io/static/js/main.0dad2085.chunk.js",
+    "main.js.map": "/rosskrasner.github.io/static/js/main.0dad2085.chunk.js.map",
+    "runtime-main.js": "/rosskrasner.github.io/static/js/runtime-main.77593afd.js",
+    "runtime-main.js.map": "/rosskrasner.github.io/static/js/runtime-main.77593afd.js.map",
+    "static/js/2.ed39f69e.chunk.js": "/rosskrasner.github.io/static/js/2.ed39f69e.chunk.js",
+    "static/js/2.ed39f69e.chunk.js.map": "/rosskrasner.github.io/static/js/2.ed39f69e.chunk.js.map",
+    "static/js/3.36053539.chunk.js": "/rosskrasner.github.io/static/js/3.36053539.chunk.js",
+    "static/js/3.36053539.chunk.js.map": "/rosskrasner.github.io/static/js/3.36053539.chunk.js.map",
+    "index.html": "/rosskrasner.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/rosskrasner.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.ed39f69e.chunk.js.LICENSE.txt": "/rosskrasner.github.io/static/js/2.ed39f69e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rosskrasner.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77593afd.js",
+    "static/js/2.ed39f69e.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.0dad2085.chunk.js"
+  ]
+}
